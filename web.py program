@@ -1,0 +1,38 @@
+import web
+urls = (
+    '/capture', 'Capture'
+)
+
+# start with default values for resolution
+width = 1024
+height = 768
+
+if __name__ == "__main__":
+
+    app = web.application(urls, globals())
+    app.run()
+
+class Capture:
+    def GET(self):
+        input = web.input(w="0", h="0")                
+
+        input.w = int(input.w)                          
+        input.h = int(input.h)
+
+        if input.w == 0:
+            input.w = width                             
+        else:
+            input.w = max(0,min(2592, input.w))         
+
+        if input.h == 0:
+            input.h = height                            
+        else:
+            input.h = max(0,min(1944, input.h))         
+
+        camera = picamera.PiCamera()                    # camera
+        camera.resolution = (input.w, input.h)
+        camera.capture('picture.jpg')                   
+        camera.close()
+
+        web.header('Content-Type', 'image/jpg')
+        return open('picture.jpg',"rb").read()
