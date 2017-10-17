@@ -1,0 +1,12 @@
+import os
+import time
+
+FRAMES = 1000
+TIMEBETWEEN = 72
+
+frameCount = 0
+while frameCount < FRAMES:
+    imageNumber = str(frameCount).zfill(7)
+    os.system("raspistill -o sarie%s.jpg"%(imageNumber))
+    frameCount += 1
+    time.sleep(TIMEBETWEEN - 12) #Takes roughly 60 seconds to take a picture
