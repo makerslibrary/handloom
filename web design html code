@@ -1,0 +1,1085 @@
+
+
+<!DOCTYPE html>
+<html lang="en-US">
+    <head>
+        <meta charset="UTF-8" />
+        <title>Saree Sales WordPress Theme | Just another InkThemes Network Demo Sites site</title>
+                <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+        <link rel="profile" href="https://gmpg.org/xfn/11" />
+        <link rel="pingback" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/xmlrpc.php" />
+        <title>Saree Sales WordPress Theme &#8211; Just another InkThemes Network Demo Sites site</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//inkthemes.com' />
+<link rel='dns-prefetch' href='//www.google.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Saree Sales WordPress Theme &raquo; Feed" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Saree Sales WordPress Theme &raquo; Comments Feed" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.8.2"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,56826,8203,55356,56819),0,0),c=j.toDataURL(),b!==c&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55358,56794,8205,9794,65039),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55358,56794,8203,9794,65039),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='cal-css-ui-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/inkappointmentpro/ink-admin/js/cal-front/jquery-ui.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='ink-form-css-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/inkappointmentpro/ink-admin/css/ink-form.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-layout-css'  href='//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=3.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='woocommerce-smallscreen-css'  href='//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=3.1.2' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='woocommerce-general-css'  href='//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=3.1.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-bootstrap-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/bootstrap.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-reset-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/reset.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-animate-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/animate.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-font-awesome-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/font-awesome.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-prettyPhoto-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/prettyPhoto.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-google-fonts-open-sans-css'  href='//fonts.googleapis.com/css?family=Source+Sans+Pro%3A400%2C300%2C600%2C700%2C400italic&#038;ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-google-fonts-montserrat-css'  href='//fonts.googleapis.com/css?family=Montserrat%3A400%2C700&#038;ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-noto-sans-font-css'  href='//fonts.googleapis.com/css?family=Noto+Sans%3A400%2C400i%2C700%2C700i&#038;ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-main-style-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/style.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-gallery-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/gallery.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-zoombox-gallery-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/zoombox-gal.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-responsive-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/responsive.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-mobile-meanmenu-css-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/meanmenu.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-zoombox-gal-css-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/zoombox-gal.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-owl-carousel-css-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/owl.carousel.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-woocommerce-css-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/woocommerce.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-hp-section-animation-css-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/css/covera_hp_section_animation.css?ver=4.8.2' type='text/css' media='all' />
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/inkappointmentpro/ink-admin/js/cal-front/jquery-ui.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/inkappointmentpro/ink-admin/js/ink-required.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://www.google.com/recaptcha/api.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var script_call = {"ajaxurl":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/inkappointmentpro/ink-admin/js/ink-apt-ajax.js?ver=4.8.2'></script>
+<link rel='https://api.w.org/' href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.8.2" />
+<meta name="generator" content="WooCommerce 3.1.2" />
+<!-- <meta name="NextGEN" version="2.2.14" /> -->
+<link rel="shortcut icon" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/feviconimg.png"/>
+<style>.page-header{
+    background-image: url(https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/images/dummy-images/page_header_default.jpg);
+}.page-header-overlay {
+    background-image: linear-gradient(to left bottom, rgba(216,72,49,0.8) 0%, rgba(226,52,206,0.8) 100%) !important;}.page-breadcrumbs {
+    background-color: 000}.page-breadcrumbs #crumbs, .page-breadcrumbs #crumbs a{ 
+    color : fff;}h1, h2, h3, h4, h5, h6 ,
+    .widget_area span.widget_heading,
+    h2.section_heading,
+    h2.hp_blog_title a,
+    .content .post .post-content h3{
+    color : #000;}body,p,
+    .widget_area li, 
+    .widget_area li a, 
+    .sidebar, 
+    .widget_area .tagcloud a,
+    .widget_archive li:before, .widget_categories li:before, .widget_pages li:before, .widget_meta li:before, .widget_recent_comments li:before, .widget_recent_entries li:before, .widget_rss li:before, .widget_nav_menu li:before, .widget_product_categories li:before{
+    color : #5D5A5A;}a ,
+    a:link,
+    a:visited,
+    .content a ,
+    .feature_hexagon i ,
+    h2.feature_item_heading:hover a,
+    .service-content:hover span.service_icons,
+    ul.footer-social-icon li:hover,
+    ul.footer-social-icon li:hover i,
+    #footer .footer-last .footer-info p a,
+     .hp_post_meta .hp_post_type a:hover,
+     #menu .ddsmoothmenu li ul.sub-menu li:hover > a{
+    color : #81BA08;}.content .post .post-info,
+    .content .post .post-info a, 
+    .content .post .post-info li a,
+    .post_image .post_img_overlay,
+    ul.paging li,
+    div#homepage_slider .owl-nav .owl-prev ,
+    div#homepage_slider .owl-nav .owl-next,
+    .testimonial_slider_nav .testimonial_prev:hover,
+    .testimonial_slider_nav .testimonial_next:hover,
+    .blog_slider_nav .blog_prev:hover,
+    .blog_slider_nav .blog_next:hover,
+    p.testimonial_author_info ,
+    .testimonial_content_section .testimonial_internal_content:hover{
+    background : #81BA08;}.testimonial_slider_nav .testimonial_prev:hover,
+    .testimonial_slider_nav .testimonial_next:hover,
+    .blog_slider_nav .blog_prev:hover,
+    .blog_slider_nav .blog_next:hover,
+    ul.footer-social-icon li:hover,
+    ul.footer-social-icon li:hover i{
+    border-color : #81BA08;}a:hover,
+    .content a:hover,
+    .feature_item:hover .feature_hexagon i{
+    color : #2C5B04;}ul.paging li.active,
+    ul.paging li:hover{
+    background : #2C5B04;}ul.paging li{
+    border-color : #2C5B04;}form#contactForm input[type='submit'],
+    ol.commentlist li.comment .reply a,
+    #respond input#commentSubmit,
+    a.prod-button ,
+    a.hp_blog_read_more,
+    .main_page_container .sidebar .woocommerce.widget_shopping_cart a.button.wc-forward,
+    .main_page_container .sidebar .woocommerce.widget_shopping_cart a.button.wc-forward,
+    .footer_widget .woocommerce.widget_shopping_cart a.button.wc-forward,
+    .woocommerce ul.products li.product .button,
+    .woocommerce .widget_price_filter .price_slider_amount .button,
+    .main_page_container .sidebar .woocommerce.widget_product_search input[type='submit'],
+    .main_page_container .sidebar .woocommerce.widget_product_search input[type='submit'],
+    .footer_widget .woocommerce.widget_product_search input[type='submit'],
+    .woocommerce div.product form.cart .button,
+    .woocommerce .page-content #respond input#submit, 
+    .woocommerce .page-content a.button, 
+    .woocommerce .page-content button.button,
+    .woocommerce .page-content input.button,
+    .woocommerce .cart .button, .woocommerce .cart input.button,
+    .woocommerce-cart .main_page_container .wc-proceed-to-checkout a.checkout-button,
+    .woocommerce #payment #place_order, .woocommerce-page #payment #place_order,
+    .woocommerce a.added_to_cart,
+    .woocommerce #review_form #respond .form-submit input,
+    .woocommerce-message a.button{
+    color : #fff;
+    background : #333;}
+    form#contactForm input[type='submit']:hover,
+    ol.commentlist li.comment .reply a:hover,
+    #respond input#commentSubmit:hover,
+    a.prod-button:hover ,
+    a.hp_blog_read_more:hover,
+    .main_page_container .sidebar .woocommerce.widget_shopping_cart a.button.wc-forward:hover,
+    .main_page_container .sidebar .woocommerce.widget_shopping_cart a.button.wc-forward:hover,
+    .footer_widget .woocommerce.widget_shopping_cart a.button.wc-forward:hover,
+    .woocommerce ul.products li.product .button:hover,
+    .woocommerce .widget_price_filter .price_slider_amount .button:hover,
+    .main_page_container .sidebar .woocommerce.widget_product_search input[type='submit']:hover,
+    .main_page_container .sidebar .woocommerce.widget_product_search input[type='submit']:hover,
+    .footer_widget .woocommerce.widget_product_search input[type='submit']:hover,
+    .woocommerce div.product form.cart .button:hover,
+    .woocommerce .page-content #respond input#submit:hover, 
+    .woocommerce .page-content a.button:hover, 
+    .woocommerce .page-content button.button:hover,
+    .woocommerce .page-content input.button:hover,
+    .woocommerce .cart .button, .woocommerce .cart input.button:hover,
+    .woocommerce-cart .main_page_container .wc-proceed-to-checkout a.checkout-button:hover,
+    .woocommerce #payment #place_order:hover,
+    .woocommerce-page #payment #place_order:hover,
+    .woocommerce a.added_to_cart:hover,
+    .woocommerce #review_form #respond .form-submit input:hover,
+    .woocommerce-message a.button:hover{
+    color : #fff;
+    background : #81BA08;}.footer-top-wrapper{
+    background : #000;}.footer-top-info p,
+    ul.footer-social-icon li i{
+    color : #fff;}    ul.footer-social-icon li{
+    border-color : #fff;}.footer-bg{
+    background : #1f1f1f;}#map_section{
+    border-color : #1f1f1f;}.footer-bg,
+    .footer,
+    #footer .textwidget p ,
+    #footer .widget_area span.widget_heading,
+    #footer a,
+    #footer li,
+    #footer li:before,
+    #footer li:after,
+    #footer li a{
+    color : #fff;}.footer-last{
+    background : #111111;}.footer-last .footer-info p{
+    color : #fff;}h2.service-items-head a{
+    color : #333;}.default-service-section .services .service-items .service-content, .service-section-without-sidebar  .services .service-items .service-content{
+    background : #f0f3f2;}span.service_icons{
+    border-color : #81BA08;
+    color : #81BA08;}.service-content:hover span.service_icons{
+    border-color : #2C5B04;
+    color : #2C5B04;}</style>	<noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
+	    <link rel='stylesheet' id='covera-recentpostwidget-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/includes/recent-post-widget/css/recent-post-widget.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='covera-socialiconwidget-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/includes/social-icon-widget/css/social-icon-widget.css?ver=4.8.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_widgets_style-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/widget/static/widgets.min.css?ver=2.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_basic_thumbnails_style-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.min.css?ver=2.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='ngg_trigger_buttons-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/trigger_buttons.min.css?ver=2.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='fancybox-0-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.min.css?ver=2.2.14' type='text/css' media='all' />
+<link rel='stylesheet' id='fontawesome-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/fontawesome/font-awesome.min.css?ver=4.6.1' type='text/css' media='all' />
+<link rel='stylesheet' id='nextgen_pagination_style-css'  href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_pagination/static/style.min.css?ver=2.2.14' type='text/css' media='all' />
+</head>
+    <body class="home blog">
+        <div class="header-container">
+            <div class="header_wrapper">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-4 col-sm-12">
+                            <div class="row">
+                                <div class="logo">
+                                    <!--<i class="fa fa-long-arrow-down"></i>-->
+                                    <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme"><img src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/02/saree2.png" alt="Saree Sales WordPress Theme" /></a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-8 col-sm-12">
+                            <div class="row">
+                                <div id="menu" class="menu-menu-1-container"><ul id="menu-menu-1" class="ddsmoothmenu"><li id="menu-item-51" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-51"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/">Home</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-58"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/shop/">Shop</a></li>
+<li id="menu-item-53" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-53"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/cart/">Cart</a></li>
+<li id="menu-item-54" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/checkout/">Checkout</a></li>
+<li id="menu-item-52" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-52"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/blog/">Blog</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-56"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/gallery/">Gallery</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/contact-us/">Contact Us</a></li>
+</ul></div>                            </div>
+                        </div>
+                        <div class="clear"></div>
+                    </div>
+                </div>
+            </div>
+            <div id="homepage_slider" class="owl-carousel">
+                    <div>
+                    <div class='slide item' style='background: url(https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Slider-1.jpg);'>
+
+                        <div class="slide_container slide_overlay" style="background-image: linear-gradient(to left bottom, rgba(71,237,42,0.8) 0%, rgba(10,137,8,0.8) 100%) !important;">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="slider_content col-md-12 text-center slider_content_fullwidth">
+                                        <a class="slider_link" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/indian-designer-sarees-collection-for-party-wear/"><h1 class="slider_heading">Designer Sanskar Jacquard Saree</h1></a>
+                                        <p class="slider_sub_heading"> An Attachment For Forming Openings Of The Shuttle Between The Warp Threads Used In Weaving Fabrics. </p>
+                                                                                    <a class="slider_read_more" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/indian-designer-sarees-collection-for-party-wear/">Read More</a>
+                                                                            </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+                                <div>
+                    <div class='slide item' style='background: url(https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Slider-2.jpg);'>
+
+                        <div class="slide_container slide_overlay" style="background-image: linear-gradient(to left bottom, rgba(46,104,234,0.8) 0%, rgba(197,34,199,0.8) 100%) !important;">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="slider_content col-md-12 text-center slider_content_fullwidth">
+                                        <a class="slider_link" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/latest-trendy-fashion-indian-silk-sarees-for-women/"><h1 class="slider_heading">Silk Mill Special Sanskar Shama</h1></a>
+                                        <p class="slider_sub_heading">Shama Sanskar Special Saree Vary Due To Specific Monitor The Settings And The Lighting.</p>
+                                                                                    <a class="slider_read_more" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/latest-trendy-fashion-indian-silk-sarees-for-women/">Read More</a>
+                                                                            </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+                                <div>
+                    <div class='slide item' style='background: url(https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Slider-3.jpg);'>
+
+                        <div class="slide_container slide_overlay" style="background-image: linear-gradient(to left bottom, rgba(224,52,45,0.8) 0%, rgba(169,32,146,0.8) 100%) !important;">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="slider_content col-md-12 text-center slider_content_fullwidth">
+                                        <a class="slider_link" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/top-indian-designer-women-sarees-collection/"><h1 class="slider_heading">New Flora Sarees With Different Print</h1></a>
+                                        <p class="slider_sub_heading">Perfect Choice For Every Women For Traditional Wearing With Many Colors Of Lightning Source.</p>
+                                                                                    <a class="slider_read_more" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/top-indian-designer-women-sarees-collection/">Read More</a>
+                                                                            </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+                                <div>
+                    <div class='slide item' style='background: url(https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Slider-4.jpg);'>
+
+                        <div class="slide_container slide_overlay" style="background-image: linear-gradient(to left bottom, rgba(71,237,42,0.8) 0%, rgba(10,137,8,0.8) 100%) !important;">
+                            <div class="container">
+                                <div class="row">
+                                    <div class="slider_content col-md-12 text-center slider_content_fullwidth">
+                                        <a class="slider_link" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/reasons-to-buy-lehenga-sarees-online/"><h1 class="slider_heading"> Exclsuive Designer Fancy Special</h1></a>
+                                        <p class="slider_sub_heading">Printed Sarees For Casual And Comfort Wear At Any Traditional Occasion As Well As For Party.</p>
+                                                                                    <a class="slider_read_more" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/reasons-to-buy-lehenga-sarees-online/">Read More</a>
+                                                                            </div>
+                                                                    </div>
+                            </div>
+                        </div>
+                        </a>
+                    </div>
+                </div>
+                </div>
+
+        </div>
+        <div class="clear"></div><div class="main_page_container ">
+    <div class="container">
+        <div class="row">
+            <div class="home-section-area col-md-8 col-sm-8 col-xs-12 ">
+                <div class="row">
+                        <div class="hp_feature_section">
+                    <div class="feature_content_img">
+                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/blog/"><img id="f_img1" class="show_feature_img" src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Feature-1.jpg"/></a>
+                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/blog/"><img id="f_img2" class="hide_feature_img" src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Feature-2.jpg"/></a>
+                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/blog/"><img id="f_img3" class="hide_feature_img" src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Feature-3.jpg"/></a>
+            </div>
+                <div class="feature_content">
+            <div class="feature_content_section">
+                <div class="feature_item" target="f_img1">
+                    <div class="feature_hexagon"><i class="fa fa-fire"></i></div>
+                    <h2 class="feature_item_heading"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/blog/">Fashion Dreams Special Silk</a></h2>
+                    <p class="feature_item_desc">Silk In The Indian Subcontinent Is A Luxury Good. In India, About 97% Of The Raw Silk Is Produced In The Indian States Of Karnataka.</p>
+                </div>
+
+            </div>                
+            <div class="feature_content_section">
+                <div class="feature_item" target="f_img2">
+                    <div class="feature_hexagon"><i class="fa fa-ticket"></i></div>
+                    <h2 class="feature_item_heading"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/india-cant-cut-a-saree-figure-for-posterity/">Neon Multi-Shade Sarees</a></h2>
+                    <p class="feature_item_desc">Multishades Special Sarees Party Wear A Unique Collection For Women Silk Cotton Voven Kota Sarees With Black Shades.</p>
+                </div>
+
+            </div>                
+            <div class="feature_content_section">
+                <div class="feature_item" target="f_img3">
+                    <div class="feature_hexagon"><i class="fa fa-clone"></i></div>
+                    <h2 class="feature_item_heading"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/blog/">Lycra Multishaded Sarees </a></h2>
+                    <p class="feature_item_desc">Speciality Of Gujrat And Rajasthan, Bandhni Is Produced Following An Ancient Method Called “Bandhej” Or Tie And Dye Method.</p>
+                </div>
+
+            </div>   
+        </div>
+    </div>
+    <div class='section_heading_wrapper'>
+        <h2 class='section_heading ' style=''>Beautiful Silk Sarees Collection</h2>        <span class='heading_bottom_hr'></span>
+    </div>
+    <div class="homepage_sevice_section default-service-section">
+        <div class="services col-md-4 col-sm-4 col-xs-12" style="-webkit-animation-delay: 0.3s;    -moz-animation-delay: 0.3s;   -o-animation-delay: 0.3s; animation-delay: 0.3s;">
+            <div class="row service-items ">
+                <div class="service-content">
+                    <h2 class="service-items-head"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/shop/">Baluchari Silk </a><span class="service_icons"><i class="fa fa-car"></i></span></h2>
+                    <p class="service-items-desc">This Traditional Saree From Bengal Is Usually Five Yards . These Sarees Are Usually Red, Purple And Deep Blue In Color. The Field Of These Sarees Are Covered With Small Butis With Beautiful Floral Design.</p></div>
+            </div>
+        </div>
+        <div class="services col-md-4 col-sm-4 col-xs-12" style="-webkit-animation-delay: 0.6s;    -moz-animation-delay: 0.6s;   -o-animation-delay: 0.6s; animation-delay: 0.6s;">
+            <div class="row service-items ">
+                <div class="service-content">
+                    <h2 class="service-items-head"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/shop/">Tussar Silk Saree</a><span class="service_icons"><i class="fa fa-plane"></i></span></h2>
+                    <p class="service-items-desc">Tussar Silk Or Kosa Silk Is Valued For Its Texture And Purity As It Is Naturally Available In Shades Of Honey, Tawny, Gold-Pale, Cream, Dark Beige, Etc. Traditional Tussar Silk Saris Are Considered To Be Auspicious. </p></div>
+            </div>
+        </div>
+        <div class="services col-md-4 col-sm-4 col-xs-12" style="-webkit-animation-delay: 0.9s;    -moz-animation-delay: 0.9s;   -o-animation-delay: 0.9s; animation-delay: 0.9s;">
+            <div class="row service-items ">
+                <div class="service-content">
+                    <h2 class="service-items-head"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/shop/"> Skill And Sheer </a><span class="service_icons"><i class="fa fa-ship"></i></span></h2>
+                    <p class="service-items-desc">This Saree Is Named After A Village Near Aurangabad In Maharashtra. These Sarees Use An Enormous Amount Of Labor, Skill And Sheer Expanse Of Material For Preparation.Distinctive Motifs Such As Parrots</p></div>
+            </div>
+        </div>
+    </div>
+ 
+    <div class="home-product-page default-product-hp">
+        <div class='section_heading_wrapper'>
+            <h2 class='section_heading ' style=''>New Saree Collections</h2>            <span class='heading_bottom_hr'></span>
+        </div>
+        <div class="clear"></div>
+                    <div class="hp-product col-md-12">
+                <div class="covera_WC">
+                                <div class="homepage-prod-wrapper woocommerce row">
+                                    <div id="product-1" class="homepage-product col-md-6" style="-webkit-animation-delay: 0.3s;    -moz-animation-delay: 0.3s;   -o-animation-delay: 0.3s animation-delay: 0.3s;">
+                        <div class="product-list woo-home-product row">
+                            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/rani-saahiba-art-bhagalpuri-silk-kalamkari-printed-saree/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">                            <section class="hp_prod_img edd-image">
+                                <img width="375" height="422" src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-3.jpg" class="attachment-150 size-150 wp-post-image" alt="" 0="" srcset="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-3.jpg 375w, https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-3-267x300.jpg 267w" sizes="(max-width: 375px) 100vw, 375px" />	
+                            </section>
+                            <div class="product_info">
+                                <h6><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/rani-saahiba-art-bhagalpuri-silk-kalamkari-printed-saree/" title="Silk Kalamkari Sarees">
+                                        Silk Kalamkari ...                                    </a></h6>
+                                <div class="price_details">
+                                                                            <div class="price_sec">
+                                            <div class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>120.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>118.00</span></ins></div>
+                                        </div>
+                                                                                <div class="rating_sec">
+                                            <div class="star-rating" title="Rated 0 out of 5">
+                                                <span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+                                            </div>
+                                        </div>
+                                                                    </div>
+                                <p class="product_desc">
+                                    
+ 	Soft Art Khadi Silk
+ 	Kalamkari Printed Saree
+ 	Contra...                                </p>
+                                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/rani-saahiba-art-bhagalpuri-silk-kalamkari-printed-saree/" title="Silk Kalamkari Sarees" class="btn prod-button">
+                                    <span class="new-link">Buy Now</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>                       
+                                        <div id="product-2" class="homepage-product col-md-6" style="-webkit-animation-delay: 0.6s;    -moz-animation-delay: 0.6s;   -o-animation-delay: 0.6s animation-delay: 0.6s;">
+                        <div class="product-list woo-home-product row">
+                            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/vaamsi-womens-chiffon-printed-saree/" class="woocommerce-LoopProduct-link woocommerce-loop-product__link">                            <section class="hp_prod_img edd-image">
+                                <img width="375" height="422" src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-2.jpg" class="attachment-150 size-150 wp-post-image" alt="" 0="" srcset="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-2.jpg 375w, https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-2-267x300.jpg 267w" sizes="(max-width: 375px) 100vw, 375px" />	
+                            </section>
+                            <div class="product_info">
+                                <h6><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/vaamsi-womens-chiffon-printed-saree/" title="Vaamsi Chiffon Touch">
+                                        Vaamsi Chiffon ...                                    </a></h6>
+                                <div class="price_details">
+                                                                            <div class="price_sec">
+                                            <div class="price"><del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>135.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>133.00</span></ins></div>
+                                        </div>
+                                                                                <div class="rating_sec">
+                                            <div class="star-rating" title="Rated 0 out of 5">
+                                                <span style="width:0%"><strong class="rating">0</strong> out of 5</span>
+                                            </div>
+                                        </div>
+                                                                    </div>
+                                <p class="product_desc">
+                                    
+ 	6.3 m length
+ 	Medium to hot iron
+ 	Total number of it...                                </p>
+                                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/vaamsi-womens-chiffon-printed-saree/" title="Vaamsi Chiffon Touch" class="btn prod-button">
+                                    <span class="new-link">Buy Now</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>                       
+                                    <div class="clear"></div>
+            </div>
+                            </div>
+            </div>
+                </div>
+        <div class="homepage_press">
+        <div class='section_heading_wrapper'>
+            <h2 class='section_heading ' style='padding-right:52px;'>Latest Designer Pieces</h2>            <span class='heading_bottom_hr'></span>
+            <div class="blog_slider_nav">
+                <div class="blog_prev"><i class="fa fa-angle-left"></i></div>
+                <div class="blog_next"><i class="fa fa-angle-right"></i></div>
+            </div>
+        </div>
+        <div class="clear"></div>
+        <div id="homepage_blog_carousel" class="owl-carousel">
+            <!-- Start the Loop. -->    
+                                <!--Start Post-->
+                    <div>
+                        <div id="post-113" class="post">
+    
+        <div class="blog_img_section"><div class='post_image'><a href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/indian-designer-sarees-collection-for-party-wear/'><span class='post_img_overlay'></span><img class='postimg' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/blog-5-final200.jpg' width='200' height='250' alt='Post Image '/></a></div></div>	
+
+        <div class="blog_content_section">
+        <div class="hp_post_meta">
+            <div class="hp_post_type"><a href=""><i class="fa fa-file-text-o"></i></a></div>
+            <div class="hp_post_date">
+                <div class="date">27</div>
+                <div class="month">Jan</div>
+            </div>
+                    </div>
+        <div class="blog_internal_content">
+            <h2 class="hp_blog_title"> 
+                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/indian-designer-sarees-collection-for-party-wear/" rel="bookmark" title="Designer Sarees Collection For Party">Designer Sarees Collection For Party</a></h2>
+            <div class="post_info"><span>By&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/author/harmonious-print-wordpress-theme/" title="Posts by admin" rel="author">admin</a>&nbsp;&nbsp;On&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/designer/" rel="category tag">Designer</a></div>
+            <hr class="hp_blog_hr"/>
+            <p class="hp_blog_excerpt">In this site it offer the best designer Saree collection for women online. We are one of the best and famous online shopping sites for ladies clothing. We provide the best collecti...</p>
+            <a class="hp_blog_read_more" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/indian-designer-sarees-collection-for-party-wear/">Read More</a>
+        </div>
+    </div>
+</div>                    </div>
+                    <!--End Post-->
+                                        <!--Start Post-->
+                    <div>
+                        <div id="post-110" class="post">
+    
+        <div class="blog_img_section"><div class='post_image'><a href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/latest-trendy-fashion-indian-silk-sarees-for-women/'><span class='post_img_overlay'></span><img class='postimg' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/blog-4-final200.jpg' width='200' height='250' alt='Post Image '/></a></div></div>	
+
+        <div class="blog_content_section">
+        <div class="hp_post_meta">
+            <div class="hp_post_type"><a href=""><i class="fa fa-file-text-o"></i></a></div>
+            <div class="hp_post_date">
+                <div class="date">27</div>
+                <div class="month">Jan</div>
+            </div>
+                    </div>
+        <div class="blog_internal_content">
+            <h2 class="hp_blog_title"> 
+                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/latest-trendy-fashion-indian-silk-sarees-for-women/" rel="bookmark" title="Trendy Fashion Silk Sarees">Trendy Fashion Silk Sarees</a></h2>
+            <div class="post_info"><span>By&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/author/harmonious-print-wordpress-theme/" title="Posts by admin" rel="author">admin</a>&nbsp;&nbsp;On&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/uncategorized/" rel="category tag">New Trend</a></div>
+            <hr class="hp_blog_hr"/>
+            <p class="hp_blog_excerpt">Silk sarees &nbsp;are the most famous and been in fashion of the old times. It is the traditional attire or a trend of matching &amp; mix the pure silk with other garment such as n...</p>
+            <a class="hp_blog_read_more" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/latest-trendy-fashion-indian-silk-sarees-for-women/">Read More</a>
+        </div>
+    </div>
+</div>                    </div>
+                    <!--End Post-->
+                                        <!--Start Post-->
+                    <div>
+                        <div id="post-107" class="post">
+    
+        <div class="blog_img_section"><div class='post_image'><a href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/top-indian-designer-women-sarees-collection/'><span class='post_img_overlay'></span><img class='postimg' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/blog-3-final200.jpg' width='200' height='250' alt='Post Image '/></a></div></div>	
+
+        <div class="blog_content_section">
+        <div class="hp_post_meta">
+            <div class="hp_post_type"><a href=""><i class="fa fa-file-text-o"></i></a></div>
+            <div class="hp_post_date">
+                <div class="date">27</div>
+                <div class="month">Jan</div>
+            </div>
+                    </div>
+        <div class="blog_internal_content">
+            <h2 class="hp_blog_title"> 
+                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/top-indian-designer-women-sarees-collection/" rel="bookmark" title="Top Konrad  Women Sarees Collection">Top Konrad  Women Sarees Collection</a></h2>
+            <div class="post_info"><span>By&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/author/harmonious-print-wordpress-theme/" title="Posts by admin" rel="author">admin</a>&nbsp;&nbsp;On&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/festivals/" rel="category tag">Festivals</a></div>
+            <hr class="hp_blog_hr"/>
+            <p class="hp_blog_excerpt">Sarees are a mixture of ancient and modern styles. Specially sarees are known for the traditional wear for &nbsp;Women. Today’s trends are changing and variety of women’s cloth...</p>
+            <a class="hp_blog_read_more" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/top-indian-designer-women-sarees-collection/">Read More</a>
+        </div>
+    </div>
+</div>                    </div>
+                    <!--End Post-->
+                                        <!--Start Post-->
+                    <div>
+                        <div id="post-104" class="post">
+    
+        <div class="blog_img_section"><div class='post_image'><a href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/reasons-to-buy-lehenga-sarees-online/'><span class='post_img_overlay'></span><img class='postimg' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/blog-2-final200.jpg' width='200' height='250' alt='Post Image '/></a></div></div>	
+
+        <div class="blog_content_section">
+        <div class="hp_post_meta">
+            <div class="hp_post_type"><a href=""><i class="fa fa-file-text-o"></i></a></div>
+            <div class="hp_post_date">
+                <div class="date">27</div>
+                <div class="month">Jan</div>
+            </div>
+                    </div>
+        <div class="blog_internal_content">
+            <h2 class="hp_blog_title"> 
+                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/reasons-to-buy-lehenga-sarees-online/" rel="bookmark" title="Reasons To Buy Lehenga Sarees">Reasons To Buy Lehenga Sarees</a></h2>
+            <div class="post_info"><span>By&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/author/harmonious-print-wordpress-theme/" title="Posts by admin" rel="author">admin</a>&nbsp;&nbsp;On&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/designer/" rel="category tag">Designer</a></div>
+            <hr class="hp_blog_hr"/>
+            <p class="hp_blog_excerpt">Onetime in the past Lehengas were utilized as customary piece of clothing. Be that as it may, today they are utilized for exceptional events, for example, wedding, party, engagemen...</p>
+            <a class="hp_blog_read_more" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/reasons-to-buy-lehenga-sarees-online/">Read More</a>
+        </div>
+    </div>
+</div>                    </div>
+                    <!--End Post-->
+                                        <!--Start Post-->
+                    <div>
+                        <div id="post-101" class="post">
+    
+        <div class="blog_img_section"><div class='post_image'><a href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/india-cant-cut-a-saree-figure-for-posterity/'><span class='post_img_overlay'></span><img class='postimg' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/blog-1-final200.jpg' width='200' height='250' alt='Post Image '/></a></div></div>	
+
+        <div class="blog_content_section">
+        <div class="hp_post_meta">
+            <div class="hp_post_type"><a href=""><i class="fa fa-file-text-o"></i></a></div>
+            <div class="hp_post_date">
+                <div class="date">27</div>
+                <div class="month">Jan</div>
+            </div>
+                    </div>
+        <div class="blog_internal_content">
+            <h2 class="hp_blog_title"> 
+                <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/india-cant-cut-a-saree-figure-for-posterity/" rel="bookmark" title="New Festivals And Weddings Sarees">New Festivals And Weddings Sarees</a></h2>
+            <div class="post_info"><span>By&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/author/harmonious-print-wordpress-theme/" title="Posts by admin" rel="author">admin</a>&nbsp;&nbsp;On&nbsp;<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/designer/" rel="category tag">Designer</a>, <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/festivals/" rel="category tag">Festivals</a>, <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/uncategorized/" rel="category tag">New Trend</a></div>
+            <hr class="hp_blog_hr"/>
+            <p class="hp_blog_excerpt">Come ‘festival season’ – October onwards – advertisements for sarees pick up. Collections of weaves from all over India are put up for sale by private and government entiti...</p>
+            <a class="hp_blog_read_more" href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/india-cant-cut-a-saree-figure-for-posterity/">Read More</a>
+        </div>
+    </div>
+</div>                    </div>
+                    <!--End Post-->
+                            </div>
+    </div>
+<a href='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/india-cant-cut-a-saree-figure-for-posterity/'><span class='post_img_overlay'></span><img src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/thumb-cache/541394af542371f98ef137a5fe1e135d-054240d3072d4dcc0aba6aa63feb0377-80x80-100-crop.jpg' class='postimg img-thumbnail' alt='Post Image.'/></a>    <div class='section_heading_wrapper testimonial'>
+        <h2 class='section_heading ' style='padding-right:52px;'>Testimonials</h2>        <span class='heading_bottom_hr testimonial'></span>
+        <div class="testimonial_slider_nav">
+            <div class="testimonial_prev"><i class="fa fa-angle-left"></i></div>
+            <div class="testimonial_next"><i class="fa fa-angle-right"></i></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+        <div id="testimonial_carousel" class="owl-carousel ">
+                            <div>  
+                        <div class="testimonial_content_section" style="-webkit-animation-delay: 0s;    -moz-animation-delay: 0s;   -o-animation-delay: 0s animation-delay: 0s;">
+                            <div class="testimonial_internal_content">
+                                                                    <div class="testimonial_img_section">
+                                        <img src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/thumb-cache/39a3ae93abd54006e592ac33c6b00df9-76a21da8b0c8cccba292cdd8b4fe446a-80x80-100-crop.jpg"/>
+                                    </div>
+                                                                        <p class="testimonial_author_info">Yeshey Pelzom</p>
+                                                                <div class="testimonial_text">
+                                    <p>The Sarees Were Delivered This Morning. Both Sarees Are Beautiful, More Than I Had Expected. Blouse Fits Perfectly. I Will Definitely Buy Again. Thank You For Taking Care Of The Saree Fall And Stitching The Sides. Wonderful Job And Please Keep It Up! Thank You Once Again,</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                                        <div>  
+                        <div class="testimonial_content_section" style="-webkit-animation-delay: 0.3s;    -moz-animation-delay: 0.3s;   -o-animation-delay: 0.3s animation-delay: 0.3s;">
+                            <div class="testimonial_internal_content">
+                                                                    <div class="testimonial_img_section">
+                                        <img src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/thumb-cache/794d159945d0ad6e276913338f849809-58007e80d3abd758442b147fade02b09-80x80-100-crop.jpg"/>
+                                    </div>
+                                                                        <p class="testimonial_author_info">Bridget Vyas</p>
+                                                                <div class="testimonial_text">
+                                    <p>Ear Indianweddingsaree Sales Support: I Received My Package. I Just Wanted To Thank You For Your Wonderful Customer Service And Quality Product. I Am Very Pleased, And I Will Definitely Recommend Your Site To Others. Kind RegardsI Have Received My First Order From Sareeka.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                                        <div>  
+                        <div class="testimonial_content_section" style="-webkit-animation-delay: 0.6s;    -moz-animation-delay: 0.6s;   -o-animation-delay: 0.6s animation-delay: 0.6s;">
+                            <div class="testimonial_internal_content">
+                                                                    <div class="testimonial_img_section">
+                                        <img src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/thumb-cache/663caa7bde9d7777b3dcc3380d2bc06a-c6fd5ae0de9197a5b931d13e1a6317c2-80x80-100-crop.jpg"/>
+                                    </div>
+                                                                        <p class="testimonial_author_info">Jamie Hernandez</p>
+                                                                <div class="testimonial_text">
+                                    <p>Hello Indiaweddingsarees, I Received The Package Yesterday. I Am So Impressed Because Cloth Quality Is Very Good And Let Like All Off My Dresses.Arrived Yesterday And While The Box Was Damaged, Both Outfits Arrived In Good Condition And Are Lovely! Outfits Are Exactly As The Pictures! </p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                                        <div>  
+                        <div class="testimonial_content_section" style="-webkit-animation-delay: 0.9s;    -moz-animation-delay: 0.9s;   -o-animation-delay: 0.9s animation-delay: 0.9s;">
+                            <div class="testimonial_internal_content">
+                                                                    <div class="testimonial_img_section">
+                                        <img src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/thumb-cache/57d04dc67c633c520d16f88482f22332-8665954ca2f898381a08bbf5bf4ae5a8-80x80-100-crop.jpg"/>
+                                    </div>
+                                                                        <p class="testimonial_author_info">Sharon Matharoo</p>
+                                                                <div class="testimonial_text">
+                                    <p>Thanks For The Parcel.I Am Happy To See It. The Color Is So Good And Please Put More Salwar Kameez With Patiala Salwar On Your Web Site.Thanks Again.Your Service Is CommendableI Have Received The Saree Was Sent On 28Th December 2016 Thank You.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                                        <div>  
+                        <div class="testimonial_content_section" style="-webkit-animation-delay: 1.2s;    -moz-animation-delay: 1.2s;   -o-animation-delay: 1.2s animation-delay: 1.2s;">
+                            <div class="testimonial_internal_content">
+                                                                    <div class="testimonial_img_section">
+                                        <img src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/thumb-cache/aac8c44509d220bdcfa305d2cb2e0939-4e85809675b66355da3d32cce3a5b70e-80x80-100-crop.jpg"/>
+                                    </div>
+                                                                        <p class="testimonial_author_info">Farhana Zaman</p>
+                                                                <div class="testimonial_text">
+                                    <p>The Customer Service Answered My Questions Via Online Chat. I Also Paid For Stitching Service And Provide The Measurements Online. The Order Arrived Soon, With Tracking Number Provided After Delivery By The Shop. If I Have Another Function Needs Indian Costume.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                                        <div>  
+                        <div class="testimonial_content_section" style="-webkit-animation-delay: 1.5s;    -moz-animation-delay: 1.5s;   -o-animation-delay: 1.5s animation-delay: 1.5s;">
+                            <div class="testimonial_internal_content">
+                                                                    <div class="testimonial_img_section">
+                                        <img src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/thumb-cache/44623d76b09427b3f2c18fee3553bebe-27029ecafa710a1aaa51e95803b68c46-80x80-100-crop.jpg"/>
+                                    </div>
+                                                                        <p class="testimonial_author_info">Jayas Sahen</p>
+                                                                <div class="testimonial_text">
+                                    <p>Great Service! All Four Outfits Were Absolutely Stunning, Perfectly Stitched And Of A Very Good Quality Material! Thank You, Absolutely Happy With My Order And Garments. A Trustworthy And Reliable Online Site.The Customer Service Answered My Questions Via Online Chat.</p>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                        </div>
+
+                </div>
+            </div>
+                            <div class="col-md-4 col-sm-4 col-xs-12 sidebar_wrapper">
+                    <div class="sidebar">
+                                                    <ul id="sidebar">
+                                <div id="woocommerce_top_rated_products-6" class="widget_area woocommerce widget_top_rated_products"><span class="widget_heading">Top Rated Products</span><ul class="product_list_widget">
+<li>
+	<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/glory-sarees-womens-bhagalpuri-art-silk-saree/">
+		<img width="180" height="180" src="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-11-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-11-180x180.jpg 180w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-11-150x150.jpg 150w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-11-300x300.jpg 300w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Striped Silk Saree</span>
+	</a>
+					<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>110.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>109.00</span></ins></li>
+
+<li>
+	<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/vaamsi-womens-chiffon-printed-saree/">
+		<img width="180" height="180" src="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-2-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-2-180x180.jpg 180w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-2-150x150.jpg 150w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-2-300x300.jpg 300w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Vaamsi Chiffon Touch</span>
+	</a>
+					<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>135.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>133.00</span></ins></li>
+
+<li>
+	<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/mimosa-womens-traditional-art-silk-saree-kanchipuram-style/">
+		<img width="180" height="180" src="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-12-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-12-180x180.jpg 180w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-12-150x150.jpg 150w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-12-300x300.jpg 300w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Mimosa Women's Silk</span>
+	</a>
+					<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>125.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>118.00</span></ins></li>
+
+<li>
+	<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/mimosa-womens-traditional-art-silk-saree-kanjivaram-style/">
+		<img width="180" height="180" src="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-5-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-5-180x180.jpg 180w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-5-150x150.jpg 150w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-5-300x300.jpg 300w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Women's Kota Silk</span>
+	</a>
+					<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>125.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>122.00</span></ins></li>
+
+<li>
+	<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/glory-sarees-womens-art-silk-saree/">
+		<img width="180" height="180" src="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-10-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-10-180x180.jpg 180w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-10-150x150.jpg 150w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-10-300x300.jpg 300w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Glory Sarees Art's</span>
+	</a>
+					<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>125.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>124.00</span></ins></li>
+
+<li>
+	<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/rani-saahiba-printed-zari-border-cotton-saree/">
+		<img width="180" height="180" src="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-8-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-8-180x180.jpg 180w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-8-150x150.jpg 150w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-8-300x300.jpg 300w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Zari Border Cotton</span>
+	</a>
+					<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>150.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>145.00</span></ins></li>
+
+<li>
+	<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product/rani-saahiba-womens-synthetic-saree/">
+		<img width="180" height="180" src="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-9-180x180.jpg" class="attachment-shop_thumbnail size-shop_thumbnail wp-post-image" alt="" srcset="//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-9-180x180.jpg 180w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-9-150x150.jpg 150w, //inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/uploads/sites/668/2017/01/Product-9-300x300.jpg 300w" sizes="(max-width: 180px) 100vw, 180px" />		<span class="product-title">Women's In Synthetic</span>
+	</a>
+					<del><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>160.00</span></del> <ins><span class="woocommerce-Price-amount amount"><span class="woocommerce-Price-currencySymbol">&pound;</span>155.00</span></ins></li>
+</ul></div>		<div id="recent-posts-3" class="widget_area widget_recent_entries">		<span class="widget_heading">Recent Posts</span>		<ul>
+					<li>
+				<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/indian-designer-sarees-collection-for-party-wear/">Designer Sarees Collection For Party</a>
+						</li>
+					<li>
+				<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/latest-trendy-fashion-indian-silk-sarees-for-women/">Trendy Fashion Silk Sarees</a>
+						</li>
+					<li>
+				<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/top-indian-designer-women-sarees-collection/">Top Konrad  Women Sarees Collection</a>
+						</li>
+					<li>
+				<a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/2017/01/27/reasons-to-buy-lehenga-sarees-online/">Reasons To Buy Lehenga Sarees</a>
+						</li>
+				</ul>
+		</div>		<div id="woocommerce_product_categories-4" class="widget_area woocommerce widget_product_categories"><span class="widget_heading">Product Categories</span><ul class="product-categories"><li class="cat-item cat-item-6"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product-category/chiffon/">Chiffon</a></li>
+<li class="cat-item cat-item-8"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product-category/cotton/">Cotton</a></li>
+<li class="cat-item cat-item-9"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product-category/silk/">Silk</a></li>
+<li class="cat-item cat-item-10"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/product-category/synthetic/">Synthetic</a></li>
+</ul></div><div id="ngg-images-4" class="widget_area ngg_images"><div class="hslice" id="ngg-webslice"><span class="entry-title widget_heading">Gallery</span><div class="ngg-widget entry-content">
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-12jpg.jpg"
+           title=" "
+           data-image-id='12'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-12jpg"
+                 alt="Gallery-12jpg"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-12jpg.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-11.jpg"
+           title=" "
+           data-image-id='11'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-11"
+                 alt="Gallery-11"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-11.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-10.jpg"
+           title=" "
+           data-image-id='10'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-10"
+                 alt="Gallery-10"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-10.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-9.jpg"
+           title=" "
+           data-image-id='9'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-9"
+                 alt="Gallery-9"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-9.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-8.jpg"
+           title=" "
+           data-image-id='8'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-8"
+                 alt="Gallery-8"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-8.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-7.jpg"
+           title=" "
+           data-image-id='7'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-7"
+                 alt="Gallery-7"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-7.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-6.jpg"
+           title=" "
+           data-image-id='6'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-6"
+                 alt="Gallery-6"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-6.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-5jpg.jpg"
+           title=" "
+           data-image-id='5'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-5jpg"
+                 alt="Gallery-5jpg"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-5jpg.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-4.jpg"
+           title=" "
+           data-image-id='4'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-4"
+                 alt="Gallery-4"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-4.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-3jpg.jpg"
+           title=" "
+           data-image-id='3'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-3jpg"
+                 alt="Gallery-3jpg"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-3jpg.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-2.jpg"
+           title=" "
+           data-image-id='2'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-2"
+                 alt="Gallery-2"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-2.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-1.jpg"
+           title=" "
+           data-image-id='1'
+           class="ngg-fancybox" rel="fac7336ab20c6b7632879f2743edb718"           ><img title="Gallery-1"
+                 alt="Gallery-1"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-1.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+    </div>
+
+</div></div><div id="categories-5" class="widget_area widget_categories"><span class="widget_heading">Categories</span>		<ul>
+	<li class="cat-item cat-item-13"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/designer/" >Designer</a>
+</li>
+	<li class="cat-item cat-item-12"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/festivals/" >Festivals</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/category/uncategorized/" >New Trend</a>
+</li>
+		</ul>
+</div>                            </ul>
+                                                </div>
+                </div>
+                            <div class="clear"></div>
+        </div>
+    </div>
+</div>
+<!--Start Footer-->
+<div id="footer">
+            <div class="footer-top-wrapper">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-7 col-sm-7 col-xs-12">
+                        <div class="row">
+                            <div class="footer-top-info">
+                                <p>Feel Free To Call 1-958-444-5694.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-5 col-sm-5 col-xs-12">
+                                                    <ul class="footer-social-icon">
+                                                                    <a href="www.facebook.com"><li class="social-icons"><i class="fa fa-facebook"></i></li></a>
+                                                                        <a href="www.twitter.com"><li class="social-icons"><i class="fa fa-twitter"></i></li></a>
+                                                                        <a href="www.google.com"><li class="social-icons"><i class="fa fa-google-plus"></i></li></a>
+                                                                        <a href="www.linkedin.com"><li class="social-icons"><i class="fa fa-linkedin"></i></li></a>
+                                                                        <a href="www.behance.com"><li class="social-icons"><i class="fa fa-behance"></i></li></a>
+                                                                        <a href="www.dribbble.com"><li class="social-icons"><i class="fa fa-dribbble"></i></li></a>       
+                                                            </ul>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <div class="footer-bg">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-4 col-xs-12 footer_widget_area">
+    <div class="row first_footer">
+        <div class="widget_area">
+                            <div id="text-8" class="widget_area widget_text"><span class="widget_heading">About Us</span>			<div class="textwidget">This Theme Is Basically For Introducing All Type Of Sarees. There Are Different Variety Of Sarees Are Present Which You Can Buy According To The Occasions. Prizes Of All Sarees Are Also Available Which Is Helpful For The Purchasing The Sarees.</div>
+		</div>                    </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-4 col-xs-12 footer_widget_area">
+    <div class="row second_footer">
+        <div class="widget_area">
+            <div id="ngg-images-2" class="widget_area ngg_images"><div class="hslice" id="ngg-webslice"><span class="entry-title widget_heading">Gallery</span><div class="ngg-widget entry-content">
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-12jpg.jpg"
+           title=" "
+           data-image-id='12'
+           class="ngg-fancybox" rel="d3265b905a5ffef573e5e75a87a44d5a"           ><img title="Gallery-12jpg"
+                 alt="Gallery-12jpg"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-12jpg.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-11.jpg"
+           title=" "
+           data-image-id='11'
+           class="ngg-fancybox" rel="d3265b905a5ffef573e5e75a87a44d5a"           ><img title="Gallery-11"
+                 alt="Gallery-11"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-11.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-10.jpg"
+           title=" "
+           data-image-id='10'
+           class="ngg-fancybox" rel="d3265b905a5ffef573e5e75a87a44d5a"           ><img title="Gallery-10"
+                 alt="Gallery-10"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-10.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-9.jpg"
+           title=" "
+           data-image-id='9'
+           class="ngg-fancybox" rel="d3265b905a5ffef573e5e75a87a44d5a"           ><img title="Gallery-9"
+                 alt="Gallery-9"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-9.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-8.jpg"
+           title=" "
+           data-image-id='8'
+           class="ngg-fancybox" rel="d3265b905a5ffef573e5e75a87a44d5a"           ><img title="Gallery-8"
+                 alt="Gallery-8"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-8.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-7.jpg"
+           title=" "
+           data-image-id='7'
+           class="ngg-fancybox" rel="d3265b905a5ffef573e5e75a87a44d5a"           ><img title="Gallery-7"
+                 alt="Gallery-7"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-7.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-6.jpg"
+           title=" "
+           data-image-id='6'
+           class="ngg-fancybox" rel="d3265b905a5ffef573e5e75a87a44d5a"           ><img title="Gallery-6"
+                 alt="Gallery-6"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-6.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+            <a href="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/Gallery-5jpg.jpg"
+           title=" "
+           data-image-id='5'
+           class="ngg-fancybox" rel="d3265b905a5ffef573e5e75a87a44d5a"           ><img title="Gallery-5jpg"
+                 alt="Gallery-5jpg"
+                 src="https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/blogs.dir/668/files/gal/thumbs/thumbs_Gallery-5jpg.jpg"
+                 width="75"
+                 height="75"
+            /></a>
+    </div>
+
+</div></div>        </div>
+    </div>
+</div>
+<div class="col-md-4 col-sm-4 col-xs-12 footer_widget_area">
+    <div class="row third_footer">
+        <div class="widget_area">
+            <div id="text-6" class="widget_area widget_text"><span class="widget_heading">Visit Us</span>			<div class="textwidget">Big Saree Sale Production
+200 E MAIN ST,PHOENIX AZ 85123,
+USA<br />
+Phone: 9052808973<br />
+Fax: <br />
+Email: makerslibrary@gmail.com
+   </div>
+		</div>        </div>
+    </div>
+</div>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <!--End Footer-->
+        <button id="map_expander" data-toggle="collapse" data-target="#map_section"><i class="fa fa-map-marker"></i>Map</button>
+        <div id="map_section" class="collapse">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d26370863.006641828!2d-113.70834778640587!3d36.212776709411365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54eab584e432360b%3A0x1c3bb99243deb742!2sUnited+States!5e0!3m2!1sen!2sin!4v1485505014682" width="100%" height="450" frameborder="0"></iframe>        </div>
+    </div>
+    <div class="footer-last">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 footer-info">
+                                            <p>Saree Sales WordPress Theme By InkThemes.com</p>
+                                   
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ngg_resource_manager_marker --><script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wpthemes\/saree-sales-wordpress-theme\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wpthemes\/saree-sales-wordpress-theme\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript' src='//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wpthemes\/saree-sales-wordpress-theme\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wpthemes\/saree-sales-wordpress-theme\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=3.1.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wpthemes\/saree-sales-wordpress-theme\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/wpthemes\/saree-sales-wordpress-theme\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments_e2421a17b0c32bdfdb93dbdd0490a6dc"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=3.1.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/ddsmoothmenu.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/ddsmoothmenu-init.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/jquery.validate.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/bootstrap.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/jquery.meanmenu.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/masonry.pkgd.min.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/zoombox.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/jquery.prettyPhoto.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/owl.carousel.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/jquery.viewportchecker.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var covera_data = {"hp_animation":"on","slider_animation":"flipInX","slider_direction":"slideOutDown","slider_speed":"5000","slider_autoplay":"on","hp_blogs_item":"1","hp_testimonial_item":"2","hp_layout_sidebar":"1","hp_service_hover_blur":"on"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/themes/covera-pro/assets/js/custom.js?ver=4.8.2'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-includes/js/wp-embed.min.js?ver=4.8.2'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var photocrati_ajax = {"url":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/?photocrati_ajax=1","wp_home_url":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme","wp_site_url":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme","wp_root_url":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme","wp_plugins_url":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/wp-content\/plugins","wp_content_url":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/wp-content","wp_includes_url":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/wp-includes\/","ngg_param_slug":"nggallery"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ajax/static/ajax.min.js?ver=2.2.14'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+
+var galleries = {};
+galleries.gallery_fac7336ab20c6b7632879f2743edb718 = {"id":null,"source":"recent","container_ids":[],"gallery_ids":[],"album_ids":[],"tag_ids":[],"display_type":"photocrati-nextgen_basic_thumbnails","exclusions":[],"order_by":"sortorder","order_direction":"ASC","image_ids":[],"entity_ids":[],"tagcloud":false,"returns":"included","slug":"widget-ngg-images-4","sortorder":[],"display_settings":{"use_lightbox_effect":true,"images_per_page":12,"number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":false,"ajax_pagination":0,"use_imagebrowser_effect":false,"template":"\/var\/www\/html\/wpthemes\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/widget\/templates\/display_gallery.php","display_no_images_error":1,"disable_pagination":true,"show_slideshow_link":false,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":1,"thumbnail_watermark":0,"ngg_triggers_display":"never","maximum_entity_count":12,"image_type":"thumb","show_thumbnail_link":false,"image_width":75,"image_height":75,"widget_setting_title":"Gallery","widget_setting_before_widget":"<div id=\"ngg-images-4\" class=\"widget_area ngg_images\"><div class=\"hslice\" id=\"ngg-webslice\">","widget_setting_before_title":"<span class=\"entry-title widget_heading\">","widget_setting_after_widget":"<\/div><\/div>","widget_setting_after_title":"<\/span>","widget_setting_width":75,"widget_setting_height":75,"widget_setting_show_setting":"thumbnail","widget_setting_widget_id":"ngg-images-4"},"excluded_container_ids":[],"maximum_entity_count":12,"__defaults_set":true,"_errors":[],"ID":"fac7336ab20c6b7632879f2743edb718"};
+galleries.gallery_fac7336ab20c6b7632879f2743edb718.wordpress_page_root = "https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/2017\/01\/27\/indian-designer-sarees-collection-for-party-wear\/";
+var nextgen_lightbox_settings = {"static_path":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/lightbox\/static","context":"nextgen_images"};
+galleries.gallery_d3265b905a5ffef573e5e75a87a44d5a = {"id":null,"source":"recent","container_ids":[],"gallery_ids":[],"album_ids":[],"tag_ids":[],"display_type":"photocrati-nextgen_basic_thumbnails","exclusions":[],"order_by":"sortorder","order_direction":"ASC","image_ids":[],"entity_ids":[],"tagcloud":false,"returns":"included","slug":"widget-ngg-images-2","sortorder":[],"display_settings":{"use_lightbox_effect":true,"images_per_page":8,"number_of_columns":0,"thumbnail_width":240,"thumbnail_height":160,"show_all_in_lightbox":false,"ajax_pagination":0,"use_imagebrowser_effect":false,"template":"\/var\/www\/html\/wpthemes\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/widget\/templates\/display_gallery.php","display_no_images_error":1,"disable_pagination":true,"show_slideshow_link":false,"slideshow_link_text":"[Show slideshow]","override_thumbnail_settings":0,"thumbnail_quality":"100","thumbnail_crop":1,"thumbnail_watermark":0,"ngg_triggers_display":"never","maximum_entity_count":8,"image_type":"thumb","show_thumbnail_link":false,"image_width":75,"image_height":75,"widget_setting_title":"Gallery","widget_setting_before_widget":"<div id=\"ngg-images-2\" class=\"widget_area ngg_images\"><div class=\"hslice\" id=\"ngg-webslice\">","widget_setting_before_title":"<span class=\"entry-title widget_heading\">","widget_setting_after_widget":"<\/div><\/div>","widget_setting_after_title":"<\/span>","widget_setting_width":75,"widget_setting_height":75,"widget_setting_show_setting":"thumbnail","widget_setting_widget_id":"ngg-images-2"},"excluded_container_ids":[],"maximum_entity_count":8,"__defaults_set":true,"_errors":[],"ID":"d3265b905a5ffef573e5e75a87a44d5a"};
+galleries.gallery_d3265b905a5ffef573e5e75a87a44d5a.wordpress_page_root = "https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/2017\/01\/27\/indian-designer-sarees-collection-for-party-wear\/";
+var nextgen_lightbox_settings = {"static_path":"https:\/\/inkthemes.com\/wpthemes\/saree-sales-wordpress-theme\/wp-content\/plugins\/nextgen-gallery\/products\/photocrati_nextgen\/modules\/lightbox\/static","context":"nextgen_images"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_gallery_display/static/common.min.js?ver=2.2.14'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_basic_gallery/static/thumbnails/nextgen_basic_thumbnails.min.js?ver=2.2.14'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/lightbox_context.min.js?ver=2.2.14'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.easing-1.3.pack.js?ver=2.2.14'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/jquery.fancybox-1.3.4.pack.js?ver=2.2.14'></script>
+<script type='text/javascript' src='https://inkthemes.com/wpthemes/saree-sales-wordpress-theme/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/lightbox/static/fancybox/nextgen_fancybox_init.min.js?ver=2.2.14'></script>
+</body>
+</html>
